@@ -1,8 +1,8 @@
 {
-  "compilerOptions": {
-    "$schema": "https://json.schemastore.org/tsconfig",
-    "display": "@progfay/tsconfig",
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "@progfay/tsconfig",
 
+  "compilerOptions": {
     "lib": ["es2020"],
     "module": "commonjs",
     "target": "es2020",
